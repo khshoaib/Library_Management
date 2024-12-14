@@ -1,4 +1,6 @@
 <span style="color:red"> A library management system web app using Django. This project will allow users to register and login to the system, search for books in the library, issue books and return them.</span>
+<span style="color:red">This is red text.</span>
+<span style="color:blue">This is blue text.</span>
 # Register
 ![image alt](https://github.com/khshoaib/Library_Management/blob/main/Images/1.png)
 
