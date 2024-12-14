@@ -4,3 +4,6 @@ A library management system web app using Django. This project will allow users 
 
 # Available Books
 ![image alt](https://github.com/khshoaib/Library_Management/blob/main/Images/2.png)
+
+# Adminstration
+![image alt](https://github.com/khshoaib/Library_Management/blob/main/Images/3.png)
